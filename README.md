@@ -6,7 +6,10 @@ This project analyzes customer service call data to evaluate sales representativ
 
 🚀 Dashboard Insights -- 
 
-📊 Project 2.1: Sales Representative & Calls Performance--
+📊 Project 2.1: Sales Representative & Calls Performance-- ![Screenshot (34)](https://github.com/user-attachments/assets/6af9c822-047b-4de9-908b-e0d71e9c2132)
+
+
+
 
 🔹 Sales Representative and Calls Performance – Analyzes individual performance based on call activity.
 
@@ -14,7 +17,8 @@ This project analyzes customer service call data to evaluate sales representativ
 
 🔹 Top 10 Sales at 2 PM – Highlights peak sales activity around 2 PM.
 
-📊 Project 2.2: Call Purpose & Branch Analysis--
+
+📊 Project 2.2: Call Purpose & Branch Analysis-- ![Screenshot (33)](https://github.com/user-attachments/assets/64b11407-1075-4daa-b1cc-858dc8cc85db)
 
 🔹 Call Purpose – Categorizes calls based on their purpose.
 
