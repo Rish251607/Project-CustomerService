@@ -15,8 +15,8 @@ This project analyzes customer service call data to evaluate sales representativ
 🔹 Top 10 Sales at 2 PM – Highlights peak sales activity around 2 PM.
 
 
-📊 Project 2.2: Call Purpose & Branch Analysis-- <img src="https://github.com/user-attachments/assets/64b11407-1075-4daa-b1cc-858dc8cc85db" width="600" height="400">
-
+📊 Project 2.2: Call Purpose & Branch Analysis-- 
+<img src="https://github.com/user-attachments/assets/64b11407-1075-4daa-b1cc-858dc8cc85db" width="600" height="400">
 
 🔹 Call Purpose – Categorizes calls based on their purpose.
 
